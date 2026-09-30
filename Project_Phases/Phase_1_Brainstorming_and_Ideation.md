@@ -24,7 +24,7 @@ Students, homemakers, and small teams needing fast, frictionless expense breakdo
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | kaviya G | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 08 |
-| 2 | sadhana M| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 08 |
+| 1 | kaviya G | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 13 |
+| 2 | sadhana M| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 13 |
 
 
